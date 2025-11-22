@@ -75,5 +75,5 @@ I am a dedicated <strong>AI Research Engineer</strong> currently working at <str
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohammedAbukhater&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
